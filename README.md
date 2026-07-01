@@ -1,6 +1,6 @@
 # BarberiaSystem - Sistema de Gestión de Turnos y Barberías
 
-¡Bienvenido a **BarberiaSystem**! Este es un sistema de backend robusto desarrollado en **.NET 8/9** diseñado para automatizar y optimizar la gestión de turnos, horarios y servicios en una barbería o salón de estilistas. 
+¡Bienvenido a **BarberiaSystem**! Este es un sistema de backend robusto desarrollado en **.NET 10** diseñado para automatizar y optimizar la gestión de turnos, horarios y servicios en una barbería o salón de estilistas. 
 
 El proyecto está construido siguiendo una **Arquitectura en Capas**, lo que garantiza la separación de responsabilidades, la escalabilidad del código y la facilidad para realizar pruebas unitarias o integraciones futuras.
 
