@@ -1,5 +1,9 @@
 <Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="../Barberia.Datos/Barberia.Datos.csproj" />
   <Project Path="../Barberia.negocio/Barberia.negocio.csproj" />
+  <Project Path="../Barberia.Web/Barberia.Web.csproj" Id="fc403065-1c4c-4449-bc7c-6d52ffe750ee" />
   <Project Path="Barberia.API.csproj" />
 </Solution>
